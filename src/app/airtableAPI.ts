@@ -1,6 +1,6 @@
 import Airtable from "airtable";
 
-const AIRTABLE_API_KEY = "keyHj4aTbVnT1qwiv";
+const AIRTABLE_API_KEY = "API KEY";
 const BASE_ID = "app8ZbcPx7dkpOnP0";
 const schoolBase = new Airtable({ apiKey: AIRTABLE_API_KEY }).base(BASE_ID);
 
